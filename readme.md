@@ -1,5 +1,6 @@
 ## 编译方式
 
+```
 npm init -y
 npm i vitepress -D
 
@@ -12,3 +13,4 @@ git commit -m 'deploy'
 git push --set-upstream git@github.com:JIAnnLee22/JIAnnLee22.github.io.git master
 
 cd ../../
+```
