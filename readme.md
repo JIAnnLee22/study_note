@@ -14,3 +14,5 @@ git push --set-upstream git@github.com:JIAnnLee22/JIAnnLee22.github.io.git maste
 
 cd ../../
 ```
+
+然后访问域名`jiannlee22.github.io`

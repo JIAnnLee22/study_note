@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "efae03abb58f86f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f67bfd1697f43f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d5a95ec83525c7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ab38ff97efbef4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "eebf28497e7a7663",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc29a9563cdfbd7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47edd63c03e4d9f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eab27b76febba964",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "139d7a63573402c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a228fb1a97d57317",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6556e26f32d8f650",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04a11c720f4f6ff7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b3b1570b4ce75a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ec169360c323c739",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "readme.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "8d5a95ec83525c7f",
+  "lastOpenFiles": [
+    "readme.md",
+    "未命名.canvas",
+    "docs/articals/android/shortcut_command.md",
+    "docs/articals/android/customview.md",
+    "docs/articals/android/common.md",
+    "docs/articals/android/advance.md"
+  ]
+}
