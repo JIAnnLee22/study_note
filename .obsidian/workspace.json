@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "docs/articals/java/common.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "docs/articals/java/common.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "docs/articals/java/common.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "docs/articals/java/common.md"
               }
             }
           }
@@ -146,13 +146,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8d5a95ec83525c7f",
+  "active": "dc29a9563cdfbd7f",
   "lastOpenFiles": [
-    "readme.md",
-    "未命名.canvas",
-    "docs/articals/android/shortcut_command.md",
+    "docs/articals/android/useful_command.md",
+    "docs/articals/java/common.md",
     "docs/articals/android/customview.md",
     "docs/articals/android/common.md",
-    "docs/articals/android/advance.md"
+    "docs/articals/android/advance.md",
+    "readme.md",
+    "未命名.canvas",
+    "docs/articals/android/shortcut_command.md"
   ]
 }
